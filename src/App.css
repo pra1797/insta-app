@@ -1,0 +1,46 @@
+.app {
+  background-color: #0D0D0D;
+}
+
+
+
+.app__header {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+  background-color:#6B6B6B;
+  display: flex;
+  justify-content: space-between;
+  padding: 4px;
+  border-bottom: 1px solid #0D0D0D;
+  object-fit: contain;
+
+  
+}
+.app__headerImage {
+	object-fit: contain;
+	border-bottom: 0px;
+	background-color:#6B6B6B;
+}
+
+.app__posts {
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	background-color:#0D0D0D ;
+}
+
+.app__postright {
+	margin-left: 20px;
+}
+
+.sign__up {
+	display: flex;
+	flex-direction: column;
+}
+.h {
+	background-color: #0D0D0D;
+	text-align: center;
+	color: aliceblue;
+}
+

@@ -1,0 +1,26 @@
+.imageupload {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 4;
+	align-items: center;
+	justify-content: space-around;
+	flex-flow: wrap;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #0D0D0D;
+	
+}
+
+.imageupload_progress {
+	width: 23%;
+}
+
+.caption_box {
+	width: 23%;
+}
+
+.file_taker {
+	color: aliceblue;
+	width: 23%;
+}
